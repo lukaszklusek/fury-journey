@@ -1,4 +1,4 @@
 # fury-journey
 From experience
 
-Some code with help me on my career.
+Some code, help me on my career.
